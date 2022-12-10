@@ -1,0 +1,93 @@
+[
+  {
+    "jid": "6283873527466@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#speed",
+        "count": 2
+      },
+      {
+        "nama": "#tiktok",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287758997288@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285820317129@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281278934369@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#speed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285866333793@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#speed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285172427224@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#runtime",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282282785311@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  }
+]
